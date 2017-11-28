@@ -1,7 +1,7 @@
 # redux-action-generator
 A redux action generator
 
-### Less constants.js, less unique name definition, less confusion. MORE CLEAR !
+### Less constants, less unique name definition, less confusion. MORE CLEAR !
 
 
 ### Example
