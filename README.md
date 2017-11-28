@@ -45,8 +45,6 @@ class Example extends React.Component {
   }
 }
 
-const mapStateToProps = state => ({ foo: state.foo })
-
 /* 
 * Recommend 
 * Dispatch will be passed to this.props
